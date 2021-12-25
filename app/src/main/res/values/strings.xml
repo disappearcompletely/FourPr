@@ -1,0 +1,4 @@
+<resources>
+    <string name="notif_text">Уведомление</string>
+    <string name="cam_text">Камера</string>
+</resources>
